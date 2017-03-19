@@ -80,11 +80,15 @@ our contact methods][9].
 ## About this policy
 
 We have created this policy for you to understand what cookies are, how we use them and how to disable or delete them 
-if you wish to. We have made this and other policies open, so you are free to re-use and adapt them for any use. Check 
-out [our license][10] for more information.
+if you wish to.
+
+We have made this and other policies open, so you are free to re-use and adapt them for any use. Check out 
+[our license][10] for more information.
+
+This policy is part of our wider [privacy policy][11].
 
 We are proud to be transparent about our policies and the changes to them so we make our policy revision history 
-publicly available via [our GitHub account][11].
+publicly available via [our GitHub account][12].
 
 [1]:  https://en.wikipedia.org/wiki/HTTP_cookie
 [2]:  https://ico.org.uk/for-the-public/online/cookies/
@@ -96,4 +100,5 @@ publicly available via [our GitHub account][11].
 [8]:  http://www.whatarecookies.com/delete.asp
 [9]:  https://www.aircury.com/contact-us/
 [10]: https://github.com/aircury/terms-of-service/blob/master/LICENSE
-[11]: https://github.com/aircury/terms-of-service
+[11]: https://www.aircury.com/privacy-policy/
+[12]: https://github.com/aircury/terms-of-service

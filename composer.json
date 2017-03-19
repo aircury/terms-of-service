@@ -1,0 +1,12 @@
+{
+    "name": "aircury/terms-of-service",
+    "description": "Aircury Terms of Service",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name":  "Jose Diaz",
+            "email": "jose@aircury.com"
+        }
+    ]
+}

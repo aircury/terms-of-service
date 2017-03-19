@@ -1,7 +1,7 @@
 {
     "name": "aircury/terms-of-service",
     "description": "Aircury Terms of Service",
-    "type": "metapackage",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {

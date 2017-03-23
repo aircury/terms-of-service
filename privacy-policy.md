@@ -74,6 +74,9 @@ We have made this and other policies open, so you are free to re-use and adapt t
 We are proud to be transparent about our policies and the changes to them so we make our policy revision history 
 publicly available via [our GitHub account][8].
 
+Lastly, please note that although we have made the effort to ensure that this is the correct revision of this document, 
+to all effects, the only version of this document that is applicable is [the latest published revision of it][9]. 
+
 [1]: https://www.gov.uk/data-protection/the-data-protection-act
 [2]: https://en.wikipedia.org/wiki/Secure_Sockets_Layer
 [3]: https://www.gov.uk/disclosure-barring-service-check/overview
@@ -82,3 +85,4 @@ publicly available via [our GitHub account][8].
 [6]: https://www.aircury.com/contact-us/
 [7]: https://github.com/aircury/terms-of-service/blob/master/LICENSE
 [8]: https://github.com/aircury/terms-of-service
+[9]: https://github.com/aircury/terms-of-service/blob/master/privacy-policy.md

@@ -9,7 +9,7 @@ preferences) over a period of time, so you don’t have to keep re-entering them
 browse from one page to another.
 
 They are common practice with almost all professional websites, to improve your experience and deliver a page tailored 
-to you. On this page, we describes what information they gather, how we use it and why we sometimes need to store these 
+to you. On this page, we describe what information they gather, how we use it and why we sometimes need to store these 
 cookies.
 
 For more information on cookies see the [Wikipedia article on HTTP Cookies][1], the [Cookies page by the Information 
@@ -20,7 +20,7 @@ Commissioner's Office][2] or [Google][3].
 We use cookies for a variety of reasons detailed below. Unfortunately in most cases, it is not possible to disable 
 cookies without completely disabling the functionality and features they add to this site. 
 
-It is recommended that you leave on all cookies if you are not sure whether you need them or not in case they are used 
+It is recommended that you leave on all cookies if you are not sure whether you need them or not, in case they are used 
 to provide a service that you use.
 
 ## The cookies we set
@@ -71,8 +71,8 @@ On [this website][6] you can find out more information about how to [view][7] or
 ## More information
 
 Hopefully that has clarified things for you and as was previously mentioned if there is something that you are not sure 
-whether you need or not it is usually safer to leave cookies enabled in case it does interact with one of the features 
-you use on our site. 
+whether you need to disable them or not it is usually safer to leave cookies enabled in case it does interact with one 
+of the features you use on our site.
 
 However if you are still looking for more information about how we use cookies, then you can contact us through [one of 
 our contact methods][9].
@@ -90,6 +90,9 @@ This policy is part of our wider [privacy policy][11].
 We are proud to be transparent about our policies and the changes to them so we make our policy revision history 
 publicly available via [our GitHub account][12].
 
+Lastly, please note that although we have made the effort to ensure that this is the correct revision of this document, 
+to all effects, the only version of this document that is applicable is [the latest published revision of it][13]. 
+
 [1]:  https://en.wikipedia.org/wiki/HTTP_cookie
 [2]:  https://ico.org.uk/for-the-public/online/cookies/
 [3]:  http://lmgtfy.com/?q=What+are+cookies%3F
@@ -102,3 +105,4 @@ publicly available via [our GitHub account][12].
 [10]: https://github.com/aircury/terms-of-service/blob/master/LICENSE
 [11]: https://www.aircury.com/privacy-policy/
 [12]: https://github.com/aircury/terms-of-service
+[13]: https://github.com/aircury/terms-of-service/blob/master/cookie-policy.md

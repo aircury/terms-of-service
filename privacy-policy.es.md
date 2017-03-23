@@ -76,8 +76,8 @@ Hemos creado ésta política para que leas y entiendas nuesta política de priva
 Hemos liberado ésta y otras políticas, por lo que eres libre de reutilizarlas y adaptarlas para cualquier uso. Mira 
 [nuestra licencia][7] para más información. 
 
-Estamos orgullosos de ser transparentes en nuestras políticas y los cambios que hacemos en las mismas que hemos hecho 
-nuestro historial de cambios de las políticas disponible en [nuestra cuenta de GitHub][8].
+Estamos orgullosos de ser transparentes en nuestras políticas y los cambios que hacemos en las mismas por lo que hemos 
+hecho nuestro historial de cambios de las políticas disponible en [nuestra cuenta de GitHub][8].
 
 Por último, ten en cuenta que somos una empresa inglesa y aunque hayamos traducido éste documento para que te resulte 
 más fácil de leer, la única versión valida a todos los efectos es [la última versión en inglés del mismo][9].

@@ -8,5 +8,10 @@
             "name":  "Jose Diaz",
             "email": "jose@aircury.com"
         }
-    ]
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
 }
